@@ -7,6 +7,8 @@
 \-C
 
 \-C++
+-adaptability
+
 
 \-SQL
 
