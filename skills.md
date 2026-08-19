@@ -1,0 +1,13 @@
+\#TECHNICAL SKILLS
+
+\-JAVA
+
+\-PYTHON
+
+\-C
+
+\-C++
+
+\-SQL
+
+
